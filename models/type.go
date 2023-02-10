@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/min-oc/gosmi/types"
+	"github.com/min-organization/gosmi/types"
 )
 
 type Enum struct {

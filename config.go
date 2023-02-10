@@ -3,7 +3,7 @@ package gosmi
 import (
 	"os"
 
-	"github.com/min-oc/gosmi/smi"
+	"github.com/min-organization/gosmi/smi"
 )
 
 func Init() {

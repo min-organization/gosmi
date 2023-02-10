@@ -3,7 +3,7 @@ package internal
 import (
 	"sync"
 
-	"github.com/min-oc/gosmi/types"
+	"github.com/min-organization/gosmi/types"
 )
 
 type Node struct {

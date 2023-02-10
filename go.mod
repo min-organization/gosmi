@@ -1,4 +1,4 @@
-module github.com/min-oc/gosmi
+module github.com/min-organization/gosmi
 
 go 1.16
 

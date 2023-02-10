@@ -1,7 +1,7 @@
 package internal
 
 import (
-	"github.com/min-oc/gosmi/types"
+	"github.com/min-organization/gosmi/types"
 )
 
 type List struct {

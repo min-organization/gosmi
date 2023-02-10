@@ -3,8 +3,8 @@ package smi
 import (
 	"unsafe"
 
-	"github.com/min-oc/gosmi/smi/internal"
-	"github.com/min-oc/gosmi/types"
+	"github.com/min-organization/gosmi/smi/internal"
+	"github.com/min-organization/gosmi/types"
 )
 
 // SmiType *smiGetType(SmiModule *smiModulePtr, char *type)

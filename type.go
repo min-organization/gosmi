@@ -3,9 +3,9 @@ package gosmi
 import (
 	"fmt"
 
-	"github.com/min-oc/gosmi/models"
-	"github.com/min-oc/gosmi/smi"
-	"github.com/min-oc/gosmi/types"
+	"github.com/min-organization/gosmi/models"
+	"github.com/min-organization/gosmi/smi"
+	"github.com/min-organization/gosmi/types"
 )
 
 type SmiType struct {

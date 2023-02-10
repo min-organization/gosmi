@@ -1,8 +1,8 @@
 package internal
 
 import (
-	"github.com/min-oc/gosmi/parser"
-	"github.com/min-oc/gosmi/types"
+	"github.com/min-organization/gosmi/parser"
+	"github.com/min-organization/gosmi/types"
 )
 
 const WellKnownModuleName types.SmiIdentifier = "<well-known>"

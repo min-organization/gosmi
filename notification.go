@@ -1,7 +1,7 @@
 package gosmi
 
 import (
-	"github.com/min-oc/gosmi/smi"
+	"github.com/min-organization/gosmi/smi"
 )
 
 type Notification struct {

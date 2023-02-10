@@ -4,8 +4,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/min-oc/gosmi/smi/internal"
-	"github.com/min-oc/gosmi/types"
+	"github.com/min-organization/gosmi/smi/internal"
+	"github.com/min-organization/gosmi/types"
 )
 
 func RenderNode(smiNodePtr *types.SmiNode, flags types.Render) string {

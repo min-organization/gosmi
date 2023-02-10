@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/alecthomas/repr"
-	"github.com/min-oc/gosmi/parser"
+	"github.com/min-organization/gosmi/parser"
 )
 
 func main() {
